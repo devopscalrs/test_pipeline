@@ -18,3 +18,7 @@ public class BasicApplicationTests {
 
 
 //Este archivo es importante
+//agregado nuevas lineas de onfiguracion
+
+
+//esto es una practica
